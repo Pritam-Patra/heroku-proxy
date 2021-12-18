@@ -1,4 +1,6 @@
 FROM python
+
+# Heroku Scheduler requires curl to retart dyno automatically
 RUN apt-get update; apt-get install curl
 RUN mkdir /app
 COPY . /app
