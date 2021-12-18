@@ -10,6 +10,6 @@ Deploy the app using the above button.
 
 Then visit {{your_heroku_url}}/?url=https://www.google.com
 
-# Credits
+## Credits
 
 https://github.com/fordnox/heroku-proxy
