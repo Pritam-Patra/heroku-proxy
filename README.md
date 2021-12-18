@@ -9,3 +9,7 @@ A free HTTP proxy that runs on Heroku.
 Deploy the app using the above button.
 
 Then visit {{your_heroku_url}}/?url=https://www.google.com
+
+# Credits
+
+https://github.com/fordnox/heroku-proxy
